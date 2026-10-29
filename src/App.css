@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@layer components {
+  .app {
+    @apply w-screen h-screen relative overflow-hidden bg-[#0a0a0a];
+  }
+}
